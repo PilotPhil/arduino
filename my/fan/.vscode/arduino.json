@@ -1,0 +1,6 @@
+{
+    "programmer": "ArduinoISP",
+    "board": "LGT:avr:lardu_328p",
+    "port": "COM6",
+    "sketch": "fan.ino"
+}
